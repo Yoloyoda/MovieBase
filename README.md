@@ -24,3 +24,8 @@ The database is managed in MySQL.
 
 <p>-Create/View Users(Admin functions)</p>
 User with admin role can add/view users in MovieBase. The user name, password, addmin role is managed in MySQL database.
+Admin menu and user menu displays differently.
+&nbsp;<img align="left" src="https://github.com/Yoloyoda/MovieBase/blob/master/MainScreen.PNG" width="500" height="200"/> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+&nbsp;<img align="left" src="https://github.com/Yoloyoda/MovieBase/blob/master/UserMenu.PNG" width="500" height="200"/> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
