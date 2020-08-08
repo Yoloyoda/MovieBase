@@ -11,15 +11,15 @@ The database is managed in MySQL.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <p>-Add movies</p>
-&nbsp;<img align="left" src="https://github.com/Yoloyoda/MovieBase/blob/master/AddMovie.PNG" width="500" height="200"/> 
+&nbsp;<img align="left" src="https://github.com/Yoloyoda/MovieBase/blob/master/AddMovie.PNG" width="400" height="200"/> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <p>-View movies</p>
-&nbsp;<img align="left" src="https://github.com/Yoloyoda/MovieBase/blob/master/ViewMovie.PNG" width="500" height="200"/> 
+&nbsp;<img align="left" src="https://github.com/Yoloyoda/MovieBase/blob/master/ViewMovie.PNG" width="500" height="100"/> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <p>-Delete movies</p>
-&nbsp;<img align="left" src="https://github.com/Yoloyoda/MovieBase/blob/master/DeleteMovie.PNG" width="500" height="200"/> 
+&nbsp;<img align="left" src="https://github.com/Yoloyoda/MovieBase/blob/master/DeleteMovie.PNG" width="400" height="200"/> 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <p>-Create/View Users(Admin functions)</p>
